@@ -27,7 +27,12 @@ mod my_module {
     use super::Command;
 
     // TODO: Complete the function as described above.
-    // pub fn transformer(input: ???) -> ??? { ??? }
+     pub fn transformer(input: Vec<(String, Command)>) -> Vec<String> {
+
+        
+
+
+     }
 }
 
 fn main() {
